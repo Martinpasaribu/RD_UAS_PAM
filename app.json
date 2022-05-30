@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "Project_UAS_PAM",
+    "slug": "Project_UAS_PAM",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./screens/cd/evos.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./screens/cd/evos.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.martinpas.Project_UAS_PAM"
+    },
+    "web": {
+      "favicon": "./assets/icon.png"
+    }
+  }
+}
