@@ -9,3 +9,5 @@ Pengerjan TUGAS Project UAS PAM KELAS RD
 # Link APK 
 https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40martinpas/Project_UAS_PAM-0767c155bb9042d6942f6ec0cc6b35a8-signed.apk
 
+# LINK Git Hub
+https://github.com/Martinpasaribu/RD_UAS_PAM
